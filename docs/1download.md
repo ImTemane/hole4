@@ -14,6 +14,6 @@ Please click on the download link ***of your OS*** to install hole4.
 ## 📖 Instructions
 Now, you can install hole4 with the steps in the installer and launch it. 
 
-***If you have no problem*** when you execute hole4, you can go to the ***[functions page](functions)***.  
+***If you have no problem*** when you execute hole4, you can go to the ***[functions page](functions.md)***.  
 
-***If not***, go to the ***[frequent problems page](frequents-problems)***.
+***If not***, go to the ***[frequent problems page](frequents-problems.md)***.
