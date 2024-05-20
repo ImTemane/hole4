@@ -5,13 +5,13 @@ This software has a lot of functions.
 
 ## 📦 Functions
 
-- ✔️[To-do-list](getting-started/functions/#to-do-list)
+- ✔️[To-do-list](functions/#to-do-list)
 
-- ✔️[Clock](getting-started/functions/#clock)
+- ✔️[Clock](functions/#clock)
 
-- ✔️[Notes](getting-started/functions/#notes)
+- ✔️[Notes](functions/#notes)
 
-- ✔️[Calculator](getting-started/functions/#calculator)
+- ✔️[Calculator](functions/#calculator)
 
 ## 🏃 Let's begin !
 
