@@ -8,6 +8,6 @@ hole4 is a **multitasking software** with some *functions* like a To-do-list and
 
 **Please drop a ⭐ to support me 🥺 (i'm a beginner developer)**
 
-***Check the official documentation*** : (https://hole4.readthedocs.io)
+***Check the official documentation*** : <https://hole4.readthedocs.io>
 
 
