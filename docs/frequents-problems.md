@@ -34,4 +34,6 @@ In this case, open the terminal, write this 2 commands and type Enter :
 #### Case 2: You dont have Python
 In this case, open the terminal, write this 3 commands and type Enter :  
 
-``sudo apt-get install python3`` and ``sudo apt-get install python3-pip`` and ``sudo apt-get install python3-tk`` 
+``sudo apt-get install python3`` and ``sudo apt-get install python3-pip`` and ``sudo apt-get install python3-tk``  
+
+Go to the **[Functions page](functions)**
