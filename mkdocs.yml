@@ -1,0 +1,45 @@
+site_name: hole4
+site_url: https://hole4.readthedocs.io
+repo_name: ImTemane/hole4
+repo_url: https://github.com/ImTemane/hole4
+theme:
+  name: material
+  logo: img/logohole4.png
+  features:
+    - header.autohide
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+    - content.tooltips
+    - content.action.edit
+    - content.action.view
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+      
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+plugins: 
+  - search
+
+        
+copyright: By <a href="https://github.com/ImTemane">ImTemane</a>. hole4 is under MIT license.
+nav:
+  - Home: index.md
+  - Download: download.md
+  - Getting started:
+    - Frequents problems: frequents-problems.md
+    - Functions: functions.md
+  - Tools:
+    - Update checker: update-checker.md
