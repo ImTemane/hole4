@@ -36,4 +36,4 @@ In this case, open the terminal, write this 3 commands and type Enter :
 
 ``sudo apt-get install python3`` and ``sudo apt-get install python3-pip`` and ``sudo apt-get install python3-tk``  
 
-Go to the **[Functions page](functions)**
+Go to the **[Functions page](functions.md)**
