@@ -14,7 +14,7 @@ hole4 was write in Python 🐍 with the module Tkinter 🖋️.
 ## Why do you need 🫵 to use hole4 ?  
 Why do you need a calculator app, a to-do list app and a note-taking app when you can have all three things in this app ? ❌
 
-hole4 is :  
+hole4 is the best choice because he is :  
 
 - [x] Open-source 🛜
 - [x] Free 💲= 🚫
