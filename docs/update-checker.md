@@ -1,7 +1,7 @@
 # Update checker 🔄️
 
 ## Latest
-Version Alpha-0
+Version Alpha-0.1
 
 Please click on the download link ***of your OS*** to install hole4.  
 
