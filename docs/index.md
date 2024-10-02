@@ -5,14 +5,14 @@ This software has a lot of functions.
 
 ## 📦 Functions
 
-- ✔️[To-do-list](functions/#to-do-list)
+- ✔️[To-do-list](functions.md#to-do-list)
 
-- ✔️[Clock](functions/#clock)
+- ✔️[Clock](functions.md#clock)
 
-- ✔️[Notes](functions/#notes)
+- ✔️[Notes](functions.md#notes)
 
-- ✔️[Calculator](functions/#calculator)
+- ✔️[Calculator](functions.md#calculator)
 
 ## 🏃 Let's begin !
 
-First, we need to download hole4, click ***[here](1download)*** to go to the download page.
+First, we need to download hole4, click ***[here](download.md)*** to go to the download page.

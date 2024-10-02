@@ -36,7 +36,7 @@ plugins:
 copyright: By <a href="https://github.com/ImTemane">ImTemane</a>. hole4 is under MIT license.
 nav:
   - Home: index.md
-  - Download: 1download.md
+  - Download: download.md
   - Getting started:
     - Frequents problems: frequents-problems.md
     - Functions: functions.md
