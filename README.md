@@ -1,3 +1,9 @@
+> # Note: this project is now **archived**, thanks for your support.
+> You can still clone this repo and create a copy of hole4 (that would be amazing for me!).  
+> Enjoy your day.
+> - ImTemane
+
+
 ![hole4 text](docs/img/hole4-text-img.png)
 ###### by @ImTemane
 ---
